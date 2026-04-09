@@ -22,7 +22,7 @@
 
 Актуальная версия: **v1.1.0 (Яндекс.OCR)**
 
-[Скачать CS2RandomPlayer_v1.1.0.exe](https://github.com/pkrff/CS2RandomPlayer/releases/download/v1.1.0/CS2RandomPlayer_v1.1.0.exe)
+[Скачать CS2RandomPlayer_v1.1.0.exe](https://github.com/pkrff/CS2RandomPlayer/releases/download/v1.1.0/CS2RandomPlayerV11.exe)
 
 *Предыдущие версии (Tesseract) доступны в [Releases](https://github.com/pkrff/CS2RandomPlayer/releases).*
 
