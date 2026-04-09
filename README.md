@@ -44,21 +44,3 @@
    - Подтвердите список ✅
 7. Выберите количество команд (по умолчанию 2) и нажмите **«🎲 Перемешать и распределить»**.
 8. Результат отобразится в нижнем поле — готово!
-
----
-
-## 📷 Скриншоты
-
-*Здесь можно вставить скриншот интерфейса программы*
-
----
-
-## ⚙️ Сборка из исходников
-
-Если хотите собрать EXE самостоятельно:
-
-```bash
-git clone https://github.com/pkrff/CS2RandomPlayer.git
-cd CS2RandomPlayer
-pip install pyinstaller
-pyinstaller --onefile --windowed --name CS2RandomPlayerYandex CS2RandomPlayerYandex.py
